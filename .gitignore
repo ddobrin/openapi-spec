@@ -31,3 +31,5 @@ build/
 .vscode/
 /tools/macOS/prometheus/data/
 /tools/macOS/prometheus/data/
+
+.DS_Store
